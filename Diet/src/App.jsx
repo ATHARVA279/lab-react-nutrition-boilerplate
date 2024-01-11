@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import FoodBox from './components/foodBox.jsx';
+import FoodBox from './components/FoodBox.jsx';
 import "./App.css";
 import FoodData from "./resources/FoodData.js";
 
